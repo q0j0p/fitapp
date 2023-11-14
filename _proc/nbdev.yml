@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fitapp"
+  site-url: "https://q0j0p.github.io/fitapp"
+  description: "A health app"
+  repo-branch: main
+  repo-url: "https://github.com/q0j0p/fitapp"
